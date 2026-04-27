@@ -1,0 +1,1 @@
+execute if score #sys wl_debug matches 1 run tellraw @a[tag=wl_debug_viewer] {"rawtext":[{"text":"[Place] class="},{"score":{"name":"@s","objective":"wl_place_class"}},{"text":" mood="},{"score":{"name":"@s","objective":"wl_place_mood"}},{"text":" threat="},{"score":{"name":"@s","objective":"wl_place_threat"}}]}

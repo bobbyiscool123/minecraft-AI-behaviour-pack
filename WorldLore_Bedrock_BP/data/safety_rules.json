@@ -1,0 +1,12 @@
+{
+  "forbidden_commands": [
+    "fill ~ ~ ~ ~20 ~20 ~20 lava",
+    "summon wither",
+    "summon ender_dragon"
+  ],
+  "forbidden_keywords": [
+    "api_key",
+    "openai",
+    "https://"
+  ]
+}

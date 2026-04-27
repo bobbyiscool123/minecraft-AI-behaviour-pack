@@ -1,0 +1,2 @@
+tellraw @s {"rawtext":[{"text":"[WorldLore] debug="},{"score":{"name":"#sys","objective":"wl_debug"}},{"text":" clock="},{"score":{"name":"#sys","objective":"wl_clock"}},{"text":" active_place="},{"score":{"name":"#sys","objective":"wl_active_place"}},{"text":" event_pending="},{"score":{"name":"#sys","objective":"wl_event_pending"}}]}
+execute as @e[tag=wl_anchor_primary,c=1,sort=nearest] run function wl/place/debug_place
