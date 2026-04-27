@@ -1,0 +1,23 @@
+{
+  "place_base": [
+    "village"
+  ],
+  "threat": [
+    "witch",
+    "pillager",
+    "portal",
+    "none"
+  ],
+  "mood": [
+    "peaceful",
+    "uneasy",
+    "afraid",
+    "grateful",
+    "mourning"
+  ],
+  "myth": [
+    "hive_echo",
+    "road_watchers",
+    "nether_whisper"
+  ]
+}

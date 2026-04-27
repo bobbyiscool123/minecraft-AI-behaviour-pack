@@ -1,0 +1,70 @@
+# WorldLore setup (idempotent)
+scoreboard objectives add wl_initialized dummy
+scoreboard objectives add wl_clock dummy
+scoreboard objectives add wl_cycle dummy
+scoreboard objectives add wl_runtime_phase dummy
+scoreboard objectives add wl_runtime_budget dummy
+scoreboard objectives add wl_global_cooldown dummy
+scoreboard objectives add wl_place_id dummy
+scoreboard objectives add wl_place_base dummy
+scoreboard objectives add wl_place_class dummy
+scoreboard objectives add wl_place_context dummy
+scoreboard objectives add wl_place_mood dummy
+scoreboard objectives add wl_place_threat dummy
+scoreboard objectives add wl_place_myth dummy
+scoreboard objectives add wl_place_history dummy
+scoreboard objectives add wl_arc_pool dummy
+scoreboard objectives add wl_arc_stage dummy
+scoreboard objectives add wl_tension dummy
+scoreboard objectives add wl_cooldown dummy
+scoreboard objectives add wl_player_rep dummy
+scoreboard objectives add wl_anchor_id dummy
+scoreboard objectives add wl_anchor_status dummy
+scoreboard objectives add wl_anchor_priority dummy
+scoreboard objectives add wl_anchor_lost_timer dummy
+scoreboard objectives add wl_anchor_recovery_attempts dummy
+scoreboard objectives add wl_candidate dummy
+scoreboard objectives add wl_priority dummy
+scoreboard objectives add wl_active_place dummy
+scoreboard objectives add wl_active_event dummy
+scoreboard objectives add wl_event_pending dummy
+scoreboard objectives add wl_event_type dummy
+scoreboard objectives add wl_event_priority dummy
+scoreboard objectives add wl_event_stage dummy
+scoreboard objectives add wl_event_timer dummy
+scoreboard objectives add wl_event_budget dummy
+scoreboard objectives add wl_scenelet_pending dummy
+scoreboard objectives add wl_scenelet_type dummy
+scoreboard objectives add wl_scenelet_variant dummy
+scoreboard objectives add wl_last_scenelet dummy
+scoreboard objectives add wl_after_pending dummy
+scoreboard objectives add wl_after_type dummy
+scoreboard objectives add wl_after_variant dummy
+scoreboard objectives add wl_after_done dummy
+scoreboard objectives add wl_place_cooldown dummy
+scoreboard objectives add wl_arc_cooldown dummy
+scoreboard objectives add wl_message_cooldown dummy
+scoreboard objectives add wl_scenelet_cooldown dummy
+scoreboard objectives add wl_after_cooldown dummy
+scoreboard objectives add wl_last_message dummy
+scoreboard objectives add wl_repeat_count dummy
+scoreboard objectives add wl_event_fatigue dummy
+scoreboard objectives add wl_debug dummy
+scoreboard objectives add wl_failsafe dummy
+scoreboard objectives add wl_error_code dummy
+scoreboard objectives add wl_perf_tick_calls dummy
+scoreboard objectives add wl_perf_scan_calls dummy
+scoreboard objectives add wl_perf_event_calls dummy
+scoreboard objectives add wl_perf_scenelet_calls dummy
+scoreboard objectives add wl_perf_after_calls dummy
+scoreboard objectives add wl_perf_commands_est dummy
+scoreboard objectives add wl_perf_anchor_count dummy
+scoreboard objectives add wl_perf_active_places dummy
+scoreboard objectives add wl_perf_failsafe_count dummy
+scoreboard objectives add wl_perf_duplicate_cleanups dummy
+scoreboard players set #sys wl_initialized 1
+scoreboard players set #sys wl_cycle 0
+scoreboard players set #sys wl_clock 0
+scoreboard players set #sys wl_runtime_phase 0
+scoreboard players set #sys wl_runtime_budget 25
+tellraw @a {"rawtext":[{"text":"[WorldLore] Setup complete."}]}

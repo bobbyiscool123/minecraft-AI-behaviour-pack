@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pool.village.bee_witch",
+    "numeric_id": 1,
+    "arcs": [
+      "arc.bee_witch.stage1",
+      "arc.bee_witch.stage2"
+    ]
+  },
+  {
+    "id": "pool.village.pillager_pressure",
+    "numeric_id": 2,
+    "arcs": [
+      "arc.pillager_pressure.stage1",
+      "arc.pillager_pressure.stage2"
+    ]
+  },
+  {
+    "id": "pool.village.portal_omen",
+    "numeric_id": 3,
+    "arcs": [
+      "arc.portal_omen.stage1",
+      "arc.portal_omen.stage2"
+    ]
+  },
+  {
+    "id": "pool.village.grateful_memory",
+    "numeric_id": 4,
+    "arcs": [
+      "arc.grateful_memory.stage1",
+      "arc.grateful_memory.stage2"
+    ]
+  },
+  {
+    "id": "pool.village.mourning_memory",
+    "numeric_id": 5,
+    "arcs": [
+      "arc.mourning_memory.stage1",
+      "arc.mourning_memory.stage2"
+    ]
+  }
+]
