@@ -1,0 +1,1 @@
+tellraw @s {"rawtext":[{"text":"[WL] init="},{"score":{"name":"#sys","objective":"wl_initialized"}},{"text":" clock="},{"score":{"name":"#sys","objective":"wl_clock"}},{"text":" anchors="},{"score":{"name":"#sys","objective":"wl_perf_anchor_count"}}]}

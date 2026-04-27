@@ -1,0 +1,122 @@
+[
+  {
+    "id": "scenelet.village.signal.01",
+    "numeric_id": 1,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.02",
+    "numeric_id": 2,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.03",
+    "numeric_id": 3,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.04",
+    "numeric_id": 4,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.05",
+    "numeric_id": 5,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.06",
+    "numeric_id": 6,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.07",
+    "numeric_id": 7,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.08",
+    "numeric_id": 8,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.09",
+    "numeric_id": 9,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.10",
+    "numeric_id": 10,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.11",
+    "numeric_id": 11,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.12",
+    "numeric_id": 12,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.13",
+    "numeric_id": 13,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.14",
+    "numeric_id": 14,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.15",
+    "numeric_id": 15,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.16",
+    "numeric_id": 16,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.17",
+    "numeric_id": 17,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.18",
+    "numeric_id": 18,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.19",
+    "numeric_id": 19,
+    "max_commands": 12,
+    "cooldown": 60
+  },
+  {
+    "id": "scenelet.village.signal.20",
+    "numeric_id": 20,
+    "max_commands": 12,
+    "cooldown": 60
+  }
+]

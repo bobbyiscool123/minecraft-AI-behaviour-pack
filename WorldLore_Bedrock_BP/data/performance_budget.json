@@ -1,0 +1,6 @@
+{
+  "tick_root_max_commands": 4,
+  "scenelet_max_commands": 30,
+  "aftermath_max_block_edits": 12,
+  "max_active_events_near_player": 1
+}

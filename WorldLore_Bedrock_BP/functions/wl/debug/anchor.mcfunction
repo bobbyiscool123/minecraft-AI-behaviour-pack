@@ -1,0 +1,1 @@
+execute as @e[tag=wl_anchor_primary,c=1,sort=nearest] run tellraw @s {"rawtext":[{"text":"[anchor] status="},{"score":{"name":"@s","objective":"wl_anchor_status"}},{"text":" id="},{"score":{"name":"@s","objective":"wl_anchor_id"}}]}
