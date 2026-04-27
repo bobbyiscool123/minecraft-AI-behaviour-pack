@@ -1,0 +1,162 @@
+[
+  {
+    "id": "arc.village.bee_witch_warning",
+    "numeric_id": 1,
+    "pool": 1,
+    "stages": [
+      "origin",
+      "foreshadow",
+      "pressure",
+      "incident",
+      "escalation",
+      "choice",
+      "consequence",
+      "memory",
+      "cooldown"
+    ]
+  },
+  {
+    "id": "arc.village.bee_witch_pressure",
+    "numeric_id": 2,
+    "pool": 2,
+    "stages": [
+      "origin",
+      "foreshadow",
+      "pressure",
+      "incident",
+      "escalation",
+      "choice",
+      "consequence",
+      "memory",
+      "cooldown"
+    ]
+  },
+  {
+    "id": "arc.village.pillager_warning",
+    "numeric_id": 3,
+    "pool": 3,
+    "stages": [
+      "origin",
+      "foreshadow",
+      "pressure",
+      "incident",
+      "escalation",
+      "choice",
+      "consequence",
+      "memory",
+      "cooldown"
+    ]
+  },
+  {
+    "id": "arc.village.pillager_incident",
+    "numeric_id": 4,
+    "pool": 4,
+    "stages": [
+      "origin",
+      "foreshadow",
+      "pressure",
+      "incident",
+      "escalation",
+      "choice",
+      "consequence",
+      "memory",
+      "cooldown"
+    ]
+  },
+  {
+    "id": "arc.village.portal_foreshadow",
+    "numeric_id": 5,
+    "pool": 5,
+    "stages": [
+      "origin",
+      "foreshadow",
+      "pressure",
+      "incident",
+      "escalation",
+      "choice",
+      "consequence",
+      "memory",
+      "cooldown"
+    ]
+  },
+  {
+    "id": "arc.village.portal_pressure",
+    "numeric_id": 6,
+    "pool": 1,
+    "stages": [
+      "origin",
+      "foreshadow",
+      "pressure",
+      "incident",
+      "escalation",
+      "choice",
+      "consequence",
+      "memory",
+      "cooldown"
+    ]
+  },
+  {
+    "id": "arc.village.grateful_origin",
+    "numeric_id": 7,
+    "pool": 2,
+    "stages": [
+      "origin",
+      "foreshadow",
+      "pressure",
+      "incident",
+      "escalation",
+      "choice",
+      "consequence",
+      "memory",
+      "cooldown"
+    ]
+  },
+  {
+    "id": "arc.village.grateful_memory",
+    "numeric_id": 8,
+    "pool": 3,
+    "stages": [
+      "origin",
+      "foreshadow",
+      "pressure",
+      "incident",
+      "escalation",
+      "choice",
+      "consequence",
+      "memory",
+      "cooldown"
+    ]
+  },
+  {
+    "id": "arc.village.mourning_origin",
+    "numeric_id": 9,
+    "pool": 4,
+    "stages": [
+      "origin",
+      "foreshadow",
+      "pressure",
+      "incident",
+      "escalation",
+      "choice",
+      "consequence",
+      "memory",
+      "cooldown"
+    ]
+  },
+  {
+    "id": "arc.village.mourning_memory",
+    "numeric_id": 10,
+    "pool": 5,
+    "stages": [
+      "origin",
+      "foreshadow",
+      "pressure",
+      "incident",
+      "escalation",
+      "choice",
+      "consequence",
+      "memory",
+      "cooldown"
+    ]
+  }
+]

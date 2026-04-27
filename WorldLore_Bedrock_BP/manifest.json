@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "WorldLore Bedrock Archive Engine",
+    "description": "Behavior-pack-only living lore illusion engine.",
+    "uuid": "30c7575d-f02c-4685-9103-5c2d0cbdb370",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      70
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "b6474705-3ef4-435b-bff7-aa8b9c88cc4a",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ]
+}

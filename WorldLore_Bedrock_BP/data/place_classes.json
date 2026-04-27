@@ -1,0 +1,42 @@
+[
+  {
+    "id": "place.village.plains.bee.swamp_witch.river",
+    "numeric_id": 101,
+    "base": 1,
+    "context": 1,
+    "arc_pool": 1,
+    "description": "Bee village with swamp witch pressure"
+  },
+  {
+    "id": "place.village.plains.road.pillager.watch",
+    "numeric_id": 102,
+    "base": 1,
+    "context": 2,
+    "arc_pool": 2,
+    "description": "Village road under pillager pressure"
+  },
+  {
+    "id": "place.village.plains.portal.omen.field",
+    "numeric_id": 103,
+    "base": 1,
+    "context": 3,
+    "arc_pool": 3,
+    "description": "Village near ruined portal omen"
+  },
+  {
+    "id": "place.village.plains.bee.grateful.garden",
+    "numeric_id": 104,
+    "base": 1,
+    "context": 4,
+    "arc_pool": 4,
+    "description": "Village rebuilding with grateful hive memory"
+  },
+  {
+    "id": "place.village.plains.mourning.silent_hives",
+    "numeric_id": 105,
+    "base": 1,
+    "context": 5,
+    "arc_pool": 5,
+    "description": "Village mourning after hive loss"
+  }
+]
